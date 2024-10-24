@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exposición sobre el Texto Publicitario</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+        }
+        header {
+            text-align: center;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+        }
+        section {
+            margin: 20px 0;
+            padding: 10px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Exposición sobre el Texto Publicitario</h1>
+</header>
+
+<section id="definicion">
+    <h2>¿Qué es el texto publicitario?</h2>
+    <p>El texto publicitario es una redacción persuasiva que busca captar la atención y motivar una acción, promoviendo productos, servicios o ideas de manera clara y atractiva.</p>
+</section>
+
+<section id="objetivo-exposicion">
+    <h2>Objetivo de la Exposición</h2>
+    <p>El objetivo de esta exposición es analizar cómo se estructura y qué estrategias se usan para crear mensajes persuasivos que atraigan y motiven a los consumidores, brindando herramientas para redactar anuncios efectivos.</p>
+</section>
+
+<section id="caracteristicas">
+    <h2>Características del Texto Publicitario</h2>
+    <ul>
+        <li><strong>Claridad</strong>: El mensaje debe ser fácil de entender.</li>
+        <li><strong>Brevedad</strong>: Suele ser conciso para captar rápidamente la atención.</li>
+        <li><strong>Persuasión</strong>: Utiliza argumentos para convencer al público.</li>
+        <li><strong>Originalidad</strong>: Busca ser creativo y destacar entre la competencia.</li>
+        <li><strong>Enfoque en el beneficio</strong>: Se centra en las ventajas para el consumidor.</li>
+        <li><strong>Llamada a la acción</strong>: Incita al público a realizar una acción específica.</li>
+        <li><strong>Adaptación al público objetivo</strong>: El lenguaje y el tono se ajustan al público.</li>
+    </ul>
+</section>
+
+<section id="estructura">
+    <h2>Estructura del Texto Publicitario</h2>
+    <ul>
+        <li><strong>Título o eslogan</strong>: Atrae la atención de inmediato.</li>
+        <li><strong>Introducción</strong>: Presenta brevemente el producto o servicio.</li>
+        <li><strong>Cuerpo del mensaje</strong>: Explica los beneficios y características del producto.</li>
+        <li><strong>Llamada a la acción</strong>: Indica al lector qué hacer a continuación.</li>
+        <li><strong>Cierre o refuerzo del mensaje</strong>: Refuerza la idea principal.</li>
+    </ul>
+</section>
+
+<section id="propositos">
+    <h2>Propósitos del Texto Publicitario</h2>
+    <ul>
+        <li><strong>Captar la atención</strong>: Atraer al público desde el primer momento.</li>
+        <li><strong>Informar</strong>: Comunicar las características y beneficios del producto.</li>
+        <li><strong>Persuadir</strong>: Convencer al lector de que es la mejor opción.</li>
+        <li><strong>Despertar deseo</strong>: Generar interés y necesidad.</li>
+        <li><strong>Motivar a la acción</strong>: Impulsar al público a realizar una acción concreta.</li>
+    </ul>
+</section>
+
+<section id="agradecimientos">
+    <h2>Agradecimientos</h2>
+    <p>Quiero expresar mi más sincero agradecimiento a [nombre del profesor o mentor] por su orientación y apoyo durante este proceso. A mis compañeros por sus valiosos comentarios, y a mi familia y amigos por su constante ánimo. Finalmente, gracias a todos los presentes por su tiempo y atención.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Exposición sobre el Texto Publicitario</p>
+</footer>
+
+</body>
+</html>
